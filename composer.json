@@ -1,0 +1,12 @@
+{
+    "name": "nozo-moto/wp-taskqueue",
+    "authors": [
+        {
+            "name": "nozo-moto",
+            "email": "nozomotoitech@gmail.com"
+        }
+    ],
+    "require": {
+        "jeremeamia/superclosure": "^2.4"
+    }
+}
